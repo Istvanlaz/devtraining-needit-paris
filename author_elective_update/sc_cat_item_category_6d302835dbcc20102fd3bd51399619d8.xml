@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="NewItilOrder">5d2f98f1dbcc20102fd3bd51399619bf</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-24 16:10:52</sys_created_on>
+        <sys_id>6d302835dbcc20102fd3bd51399619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.NewItilOrder</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_6d302835dbcc20102fd3bd51399619d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-24 16:10:52</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6453373adbef1bc86578f22ebf9619a9</instance_id>
+        <instance_name>dev68174</instance_name>
+        <name>sc_cat_item_category_6d302835dbcc20102fd3bd51399619d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="NewItilOrder">5d2f98f1dbcc20102fd3bd51399619bf</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-24 16:10:52</sys_created_on><sys_id>6d302835dbcc20102fd3bd51399619d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware.NewItilOrder</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_category_6d302835dbcc20102fd3bd51399619d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-24 16:10:52</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>446712391</payload_hash>
+        <record_name>Hardware.NewItilOrder</record_name>
+        <reverted_from/>
+        <source>6e9ff58ddb0020102fd3bd5139961955</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-24 16:10:52</sys_created_on>
+        <sys_id>6930a075dbcc20102fd3bd5139961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1755b607f790000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-24 16:10:52</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>21302835c9cc2010836717eb39309fdb</update_guid>
+        <update_guid_history>21302835c9cc2010836717eb39309fdb:446712391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hardware.NewItilOrder">61c5494edb8860102fd3bd51399619f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-25 13:33:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>9c47ec46a7f04f30af0020d2fa0cba40</sys_id>
+        <sys_metadata>6d302835dbcc20102fd3bd51399619d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.NewItilOrder</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_6d302835dbcc20102fd3bd51399619d8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_6d302835dbcc20102fd3bd51399619d8">6930a075dbcc20102fd3bd5139961916</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-25 13:33:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
