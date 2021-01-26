@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-26 15:24:26">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-26 15:12:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a868dc48db8220103826a9954b9619f8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Active This Week</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_a868dc48db8220103826a9954b9619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-26 15:13:22</sys_updated_on>
+        <title>PA Active This Week</title>
+        <user/>
+        <view>pa_needit_application_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active This Week">a868dc48db8220103826a9954b9619f8</page>
+                <summary>Active This Week Workbench</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-26 15:17:49</sys_created_on>
+                <sys_id>0d8910c8db8220103826a9954b96194e</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-26 15:18:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-26 07:17:49">0d8910c8db8220103826a9954b96194e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:17:49</sys_created_on>
+                        <sys_id>058910c8db8220103826a9954b96194f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:17:49</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-26 07:17:49">0d8910c8db8220103826a9954b96194e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:17:49</sys_created_on>
+                        <sys_id>4d8910c8db8220103826a9954b96194f</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:18:50</sys_updated_on>
+                        <value>Active This Week Workbench</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-26 07:17:49">0d8910c8db8220103826a9954b96194e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:17:49</sys_created_on>
+                        <sys_id>898910c8db8220103826a9954b96194f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:17:49</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-26 07:17:49">0d8910c8db8220103826a9954b96194e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:17:49</sys_created_on>
+                        <sys_id>8d8910c8db8220103826a9954b96194e</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:18:30</sys_updated_on>
+                        <value>a589d888db8220103826a9954b961943</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-26 07:17:49">0d8910c8db8220103826a9954b96194e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:17:49</sys_created_on>
+                        <sys_id>c18910c8db8220103826a9954b961950</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:18:30</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-26 07:17:49">0d8910c8db8220103826a9954b96194e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:17:49</sys_created_on>
+                        <sys_id>c58910c8db8220103826a9954b96194f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:17:49</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active This Week">a868dc48db8220103826a9954b9619f8</page>
+                <summary>Active This Week Breakdown</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-26 15:13:50</sys_created_on>
+                <sys_id>ba98d488db8220103826a9954b961906</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-26 15:16:13</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-26 07:13:50">ba98d488db8220103826a9954b961906</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:13:50</sys_created_on>
+                        <sys_id>3a98d488db8220103826a9954b961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:13:50</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-26 07:13:50">ba98d488db8220103826a9954b961906</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:13:50</sys_created_on>
+                        <sys_id>3e98d488db8220103826a9954b961906</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:14:39</sys_updated_on>
+                        <value>5b98d848db8220103826a9954b9619af</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-26 07:13:50">ba98d488db8220103826a9954b961906</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:13:50</sys_created_on>
+                        <sys_id>7298d488db8220103826a9954b961908</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:14:39</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-26 07:13:50">ba98d488db8220103826a9954b961906</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:13:50</sys_created_on>
+                        <sys_id>7698d488db8220103826a9954b961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:13:50</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-26 07:13:50">ba98d488db8220103826a9954b961906</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:13:50</sys_created_on>
+                        <sys_id>b298d488db8220103826a9954b961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:13:50</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-26 07:13:50">ba98d488db8220103826a9954b961906</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:13:50</sys_created_on>
+                        <sys_id>fa98d488db8220103826a9954b961907</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:16:13</sys_updated_on>
+                        <value>Active This Week Breakdown</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active This Week">a868dc48db8220103826a9954b9619f8</page>
+                <summary>Active This Week Time Series</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-26 15:16:30</sys_created_on>
+                <sys_id>ed391888db8220103826a9954b9619fd</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-26 15:17:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-26 07:16:30">ed391888db8220103826a9954b9619fd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:16:30</sys_created_on>
+                        <sys_id>21391888db8220103826a9954b9619ff</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:17:04</sys_updated_on>
+                        <value>Active This Week Time Series</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-26 07:16:30">ed391888db8220103826a9954b9619fd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:16:30</sys_created_on>
+                        <sys_id>61391888db8220103826a9954b9619fe</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:17:04</sys_updated_on>
+                        <value>4e39dc88db8220103826a9954b9619fb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-26 07:16:30">ed391888db8220103826a9954b9619fd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:16:30</sys_created_on>
+                        <sys_id>6d391888db8220103826a9954b9619fe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:16:30</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-26 07:16:30">ed391888db8220103826a9954b9619fd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:16:30</sys_created_on>
+                        <sys_id>a5391888db8220103826a9954b9619ff</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:17:05</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-26 07:16:30">ed391888db8220103826a9954b9619fd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:16:30</sys_created_on>
+                        <sys_id>a9391888db8220103826a9954b9619fe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:16:30</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-26 07:16:30">ed391888db8220103826a9954b9619fd</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:16:30</sys_created_on>
+                        <sys_id>e5391888db8220103826a9954b9619fe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:16:30</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active This Week">a868dc48db8220103826a9954b9619f8</page>
+                <summary>Active This Week Score</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-01-26 15:15:04</sys_created_on>
+                <sys_id>f4e85c48db8220103826a9954b9619b6</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-01-26 15:15:53</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-01-26 07:15:04">f4e85c48db8220103826a9954b9619b6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:15:04</sys_created_on>
+                        <sys_id>38e85c48db8220103826a9954b9619b7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:15:53</sys_updated_on>
+                        <value>Active This Week Score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2021-01-26 07:15:04">f4e85c48db8220103826a9954b9619b6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:15:04</sys_created_on>
+                        <sys_id>74e85c48db8220103826a9954b9619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:15:04</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-01-26 07:15:04">f4e85c48db8220103826a9954b9619b6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:15:04</sys_created_on>
+                        <sys_id>78e85c48db8220103826a9954b9619b6</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:15:53</sys_updated_on>
+                        <value>25e89488db8220103826a9954b96198c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-01-26 07:15:04">f4e85c48db8220103826a9954b9619b6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:15:04</sys_created_on>
+                        <sys_id>b0e85c48db8220103826a9954b9619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:15:04</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2021-01-26 07:15:04">f4e85c48db8220103826a9954b9619b6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:15:04</sys_created_on>
+                        <sys_id>bce85c48db8220103826a9954b9619b7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:15:53</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-01-26 07:15:04">f4e85c48db8220103826a9954b9619b6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-01-26 15:15:04</sys_created_on>
+                        <sys_id>fce85c48db8220103826a9954b9619b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-01-26 15:15:04</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
